@@ -1,19 +1,39 @@
 ---
-slug: '/first-post'
-title: 'Our first post'
-date: '2018-12-28'
+slug: '/monster-marshmallow-cookies'
+title: 'Monster Marshmallow Cookies'
+date: '2019-01-01'
 ---
 
-# hello
+## Ingredients
 
-Gastropub hot chicken microdosing keytar irony tumeric bitters offal four dollar toast celiac enamel pin snackwave. Live-edge kinfolk palo santo, blog post-ironic normcore mlkshk plaid gluten-free mixtape hell of literally portland. Ugh unicorn subway tile trust fund pop-up actually, cray taiyaki chillwave adaptogen tumeric. Bicycle rights salvia paleo gastropub quinoa 3 wolf moon. Four dollar toast godard viral hot chicken sustainable beard migas typewriter pour-over copper mug kombucha tofu la croix artisan intelligentsia. Vegan poutine DIY cred kogi health goth YOLO.
+#### Cookies:
 
-## this heading
+- 2 cups all-purpose flour
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 2 sticks unsalted butter, softened
+- 1 cup granulated sugar
+- 1 cup packed light brown sugar
+- 2 large eggs, at room temperature
+- 1 tablespoon vanilla extract
+- 2 cups quick-cooking oats
+- 1 1/4 cups crispy rice cereal
+- 1 cup milk chocolate chips
+- 1 cup miniature marshmallows
 
-Man bun small batch poutine beard irony farm-to-table affogato shabby chic cronut chicharrones. Polaroid biodiesel master cleanse enamel pin, shaman venmo crucifix messenger bag pinterest pour-over. Enamel pin tbh lumbersexual, bitters bespoke adaptogen VHS. Photo booth pitchfork chartreuse copper mug authentic williamsburg cronut humblebrag literally pabst activated charcoal. Gentrify man bun bespoke, everyday carry snackwave brunch live-edge. Affogato sriracha tumeric brunch, fanny pack hoodie locavore sustainable. Subway tile kombucha migas pabst edison bulb everyday carry.
+#### Topping:
 
-Sustainable etsy cronut, bicycle rights green juice synth godard tattooed semiotics listicle YOLO authentic vape edison bulb offal. Occupy brunch drinking vinegar selvage hoodie plaid. Cliche hella polaroid, typewriter kinfolk waistcoat biodiesel art party semiotics thundercats marfa mlkshk. Neutra adaptogen sriracha kitsch snackwave wayfarers. Chia austin wayfarers photo booth, synth offal godard thundercats gluten-free gochujang. Snackwave thundercats chillwave, you probably haven't heard of them flannel godard roof party prism.
+- 1/2 cup milk chocolate chips
+- 1/2 cup miniature marshmallows
+- 2 1/2 teaspoons half-and-half
+- Pinch of cayenne pepper
 
-## another heading
+## Directions
 
-Gentrify brooklyn poke, slow-carb keffiyeh selvage selfies gastropub church-key mustache woke. Occupy microdosing street art shaman whatever YOLO affogato four loko crucifix unicorn you probably haven't heard of them quinoa 3 wolf moon tilde. Man braid vinyl bespoke synth, you probably haven't heard of them williamsburg knausgaard austin leggings occupy adaptogen coloring book normcore pop-up. Chillwave squid craft beer gochujang palo santo. Wayfarers chambray beard umami church-key hashtag vape. Swag disrupt twee flexitarian tumblr hell of palo santo ramps cloud bread fanny pack pop-up activated charcoal chillwave.
+1. Make the cookies: Combine the flour, baking powder and baking soda in a small bowl. In a large bowl, beat the butter and both sugars with a mixer on medium-high speed until fluffy. Beat in the eggs one at a time on medium speed, then beat in the vanilla. Add the flour mixture and beat on low speed until combined.
+
+2. Stir the oats, cereal, chocolate chips, and marshmallows into the dough with a wooden spoon. Wrap with plastic wrap and refrigerate the dough for 30 minutes.
+
+3. Preheat the oven to 350°F and line 2 baking sheets with parchment paper. Drop heaping tablespoonfuls of the dough onto the prepared baking sheets, about 3 inches apart.Bake the cookies in batches until golden, 10 to 12 minutes. Let cookies rest on sheet pans to cool slightly, about 10 minutes. Transfer to racks to cool.
+
+4. Make the topping: Combine the chocolate chips, marshmallows, half-and-half and cayenne pepper in a saucepan over medium heat; cook, stirring, until the mixture is smooth, about 5 minutes. Remove from the heat. Drizzle the mixture over the cookies and let set, about 4 hours.

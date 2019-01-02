@@ -1,19 +1,36 @@
 ---
-slug: '/second-post'
-title: 'Our second post'
-date: '2018-12-29'
+slug: '/oatmeal-raisin-cookies'
+title: 'Soft & Chewy Oatmeal Raisin Cookies'
+date: '2018-12-31'
 ---
 
-# YO!
+## Ingredients
 
-Gastropub hot chicken microdosing keytar irony tumeric bitters offal four dollar toast celiac enamel pin snackwave. Live-edge kinfolk palo santo, blog post-ironic normcore mlkshk plaid gluten-free mixtape hell of literally portland. Ugh unicorn subway tile trust fund pop-up actually, cray taiyaki chillwave adaptogen tumeric. Bicycle rights salvia paleo gastropub quinoa 3 wolf moon. Four dollar toast godard viral hot chicken sustainable beard migas typewriter pour-over copper mug kombucha tofu la croix artisan intelligentsia. Vegan poutine DIY cred kogi health goth YOLO.
+- 1 cup unsalted butter, softened to room temperature
+- 1 cup packed light or dark brown sugar
+- 1/4 cup granulated sugar
+- 2 large eggs
+- 1 tablespoon vanilla extract (yes, tablespoon!)
+- 1 tablespoon molasses
+- 1 1/2 cups all-purpose flour (spoon & leveled)
+- 1 teaspoon baking soda
+- 1 1/2 teaspoons ground cinnamon
+- 1/2 teaspoon salt
+- 3 cups old-fashioned whole rolled oats
+- 1 cup raisins
 
-## this heading
+## Directions
 
-Man bun small batch poutine beard irony farm-to-table affogato shabby chic cronut chicharrones. Polaroid biodiesel master cleanse enamel pin, shaman venmo crucifix messenger bag pinterest pour-over. Enamel pin tbh lumbersexual, bitters bespoke adaptogen VHS. Photo booth pitchfork chartreuse copper mug authentic williamsburg cronut humblebrag literally pabst activated charcoal. Gentrify man bun bespoke, everyday carry snackwave brunch live-edge. Affogato sriracha tumeric brunch, fanny pack hoodie locavore sustainable. Subway tile kombucha migas pabst edison bulb everyday carry.
+1. Using a hand mixer or a stand mixer fitted with paddle attachment, cream the softened butter and both sugars together on medium speed until smooth, about 2 minutes. Add the eggs and mix on high until combined, about 1 minute. Scrape down the sides and bottom of the bowl as needed. Add the vanilla and molasses and mix on high until combined. Set aside.
 
-Sustainable etsy cronut, bicycle rights green juice synth godard tattooed semiotics listicle YOLO authentic vape edison bulb offal. Occupy brunch drinking vinegar selvage hoodie plaid. Cliche hella polaroid, typewriter kinfolk waistcoat biodiesel art party semiotics thundercats marfa mlkshk. Neutra adaptogen sriracha kitsch snackwave wayfarers. Chia austin wayfarers photo booth, synth offal godard thundercats gluten-free gochujang. Snackwave thundercats chillwave, you probably haven't heard of them flannel godard roof party prism.
+2. In a large bowl, toss the flour, baking soda, cinnamon, and salt together. Add to the wet ingredients and mix on low until combined. Beat in the oats, raisins, and walnuts (if using) on low speed. Dough will be thick, yet very sticky. Chill the dough for 30-60 minutes in the refrigerator (do the full hour if you're afraid of the cookies spreading too much). If chilling for longer (up to 2 days), allow to sit at room temperature for at least 30 minutes before rolling and baking.
 
-## another heading
+3. Preheat oven to 350°F. Line two large baking sheets with parchment paper or silicone baking mats. (Always recommended for cookies.) Set aside.
 
-Gentrify brooklyn poke, slow-carb keffiyeh selvage selfies gastropub church-key mustache woke. Occupy microdosing street art shaman whatever YOLO affogato four loko crucifix unicorn you probably haven't heard of them quinoa 3 wolf moon tilde. Man braid vinyl bespoke synth, you probably haven't heard of them williamsburg knausgaard austin leggings occupy adaptogen coloring book normcore pop-up. Chillwave squid craft beer gochujang palo santo. Wayfarers chambray beard umami church-key hashtag vape. Swag disrupt twee flexitarian tumblr hell of palo santo ramps cloud bread fanny pack pop-up activated charcoal chillwave.
+4. Roll balls of dough (about 2 tablespoons of dough per cookie) and place 2 inches apart on the baking sheets. Bake for 11-13 minutes until very lightly browned on the sides. The centers will look very soft and undone. Remove from the oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely. The cookies will continue to "set" on the baking sheet during this time.
+
+### Recipe Tips
+
+Cookies stay fresh covered at room temperature for up to 1 week. Baked cookies freeze well - up to three months. Unbaked cookie dough balls freeze well - up to three months. Bake frozen cookie dough balls for an extra minute, no need to thaw.
+
+Soak your raisins in warm water for 10 minutes before using (blot very well to dry them) - this makes them nice and plump for your cookies. OR even try them with Raisinets!

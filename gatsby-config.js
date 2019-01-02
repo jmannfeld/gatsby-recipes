@@ -12,6 +12,8 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    'gatsby-plugin-offline',
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -38,16 +40,5 @@ module.exports = {
         path: `${__dirname}/src/posts`,
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-styled-components`,
-    //   options: {
-    //     // Add any options here
-    //   },
-    // },
-
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
-    'gatsby-plugin-offline',
-    `gatsby-plugin-netlify`,
   ],
 };
